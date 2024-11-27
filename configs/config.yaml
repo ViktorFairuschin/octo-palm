@@ -1,0 +1,2 @@
+detector:
+  filepath: models/yolo11n.onnx
